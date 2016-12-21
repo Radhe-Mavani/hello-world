@@ -1,2 +1,2 @@
 # hello-world
-First Experiment With Git-Hub
+I want to offer my helping hands to each and every needy people.
